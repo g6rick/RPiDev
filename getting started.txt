@@ -1,0 +1,24 @@
+
+1. Install get-core
+	sudo apt-get install git-core
+
+2. git wiringPi library
+	git clone git://git.drogon.net/wiringPi
+
+3. install library
+	cd wiringPi
+	./build
+
+4. git all my files
+	git clone xxx
+
+5. To run Python scripts:
+	sudo pyton filename.py
+	
+6. To compile flash1.c
+	gcc -o flash1 flash1.c -lwiringPi
+	
+	Execute:
+	./flash1
+	or,
+	sudo ./flash1
