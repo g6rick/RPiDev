@@ -1,2 +1,0 @@
-# RPiDev
-Raspberry Pi Development
